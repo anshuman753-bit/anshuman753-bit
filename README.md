@@ -9,14 +9,8 @@
 
 ## 🛠️ Skills
 - **Languages:** Python, Java, HTML, CSS  
-- **Interests:** AI, ML, Web Development, Open Source  
-
----
-
-## 📊 GitHub Stats
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman753-bit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman753-bit&layout=compact&theme=radical)
-
+- **Interests:** AI, ML, Web Development, Open Source
+- 
 ---
 
 ## 📫 Connect with Me
