@@ -14,12 +14,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com) *(add your profile link)*  
-- [Portfolio/Website](https://yourwebsite.com) *(optional)*  
+- [LinkedIn](https://www.linkedin.com/in/anshuman-sharma-19938a355/)
 
----
-
-⭐️ From [anshuman753-bit](https://github.com/anshuman753-bit)
 
 <!--
 **anshuman753-bit/anshuman753-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
